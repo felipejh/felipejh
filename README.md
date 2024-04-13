@@ -2,7 +2,7 @@
 <h3 align="center">A Front End Developer | ReactJS | React Native</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipejh" alt="felipejh" /> </p>
 
-- 🔭 I’m currently working on [Stone Co](https://www.stone.com.br/)
+- 🔭 I’m currently working on [Integrated Automotive Experience](https://www.integratedauto.com/)
 
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/felipejh) and [Bitbucket](https://bitbucket.org/felipejh/)
 
