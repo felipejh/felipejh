@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Hoffmann</h1>
-<h3 align="center">A Front End Developer | ReactJS | React Native</h3>
+<h3 align="center">A Mobile Developer | React Native | Swift</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipejh" alt="felipejh" /> </p>
 
 - 🔭 I’m currently working on [Integrated Automotive Experience](https://www.integratedauto.com/)
